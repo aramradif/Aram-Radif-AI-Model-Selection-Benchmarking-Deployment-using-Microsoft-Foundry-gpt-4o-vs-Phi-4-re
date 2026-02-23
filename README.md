@@ -1,0 +1,1 @@
+# Aram-Radif-AI-Choose-and-deploy-models-from-the-model-catalog-in-Microsoft-Foundry-portal
