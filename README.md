@@ -1,9 +1,7 @@
-# Aram-Radif-AI-Choose-and-deploy-models-from-the-model-catalog-in-Microsoft-Foundry-portal
+# Aram-Radif-AI-Model Selection, Benchmarking & Deployment using Microsoft Foundry (gpt-4o vs Phi-4-reasoning)
 
 Choose and deploy models from the model catalog in Microsoft Foundry portal
 GitHub
-
-Model Selection, Benchmarking & Deployment using Microsoft Foundry (gpt-4o vs Phi-4-reasoning)
 ________________________________________
 Project Overview
 This project demonstrates how an AI Engineer:
